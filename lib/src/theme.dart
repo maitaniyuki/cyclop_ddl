@@ -6,9 +6,9 @@ class Labels {
   static const String red = '赤';
   static const String green = '緑';
   static const String blue = '青';
-  static const String hue = '色彩';
+  static const String hue = '色相';
   static const String saturation = '彩度';
-  static const String light = '明るさ';
+  static const String light = '輝度';
 }
 
 const defaultRadius = 8.0;
